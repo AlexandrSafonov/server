@@ -15,7 +15,7 @@
     {
       "id": 4,
       "title": "Post 4"
-    },
+    }
   ],
   "categories": [
     {
@@ -29,6 +29,6 @@
     {
       "id": 3,
       "title": "category 3"
-    },
-  ],
+    }
+  ]
 }
